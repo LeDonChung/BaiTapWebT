@@ -1,0 +1,44 @@
+.clock-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.clock-title {
+    font-size: 30px;
+}
+
+.clock-time {
+    font-size: 20px;
+    color: #000000;
+}
+
+.time {
+    color: #ff0000;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    background-color: #e6e616;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover{
+    opacity: 0.8;
+}
+.clock-btn {
+    
+}
+
+.clock-start {
+
+}
+
+.clock-stop {
+
+}
+
+.clock-restart {
+
+}
